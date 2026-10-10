@@ -1,0 +1,19 @@
+{
+  "name": "MuseLog 生活簿",
+  "short_name": "生活簿",
+  "description": "留下每日生活伙伴、小记与状态，自由拼贴并回看生活日历",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F1E8",
+  "theme_color": "#F4F1E8",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
